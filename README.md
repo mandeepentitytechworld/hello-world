@@ -1,1 +1,3 @@
 # hello-world
+
+In this web design course, I am striving to gain a deeper knowledge of the fundamental design principles using next generation industry standard tools. I dream of acquiring experience in making user centered interfaces, being an expert in techniques for responsive design and developing my skills in creating visually stunning layouts. Similarly, I aspire to build a robust skill base in usability testing and accessibility standards as well so that my projects can address the needs of everyone. Overall, I want to complete the course armed with the technical abilities and the confidence to deal with all kinds of web design problems and that will make me a useful member of the online community.
